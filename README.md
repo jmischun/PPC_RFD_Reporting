@@ -9,6 +9,7 @@ This repository stores the Google Apps Script code that restructures data collec
 
 ## Resources
 * Google Forms Example: [Click Here](https://goo.gl/forms/BVnJmRCDiXxSDHup2)
-    * PDF Example of Form:
+    * PDF Example of Form: [template_dailyPpcRfdForm.pdf](https://github.com/jmischun/PPC_RFD_Reporting/blob/master/Docs/template_dailyPpcRfdForm.pdf)
 * Google Apps Script: [rfd_data_restructure_function.txt](https://github.com/jmischun/PPC_RFD_Reporting/blob/master/Docs/rfd_data_restructure_function.txt)
 * Domo for charts: [Click Here](https://www.domo.com/)
+* LCI 2018 Lean Labs Boards: [mischung_lci_2018.pdf](https://github.com/jmischun/PPC_RFD_Reporting/blob/master/Docs/mischung_lci_2018.pdf)
